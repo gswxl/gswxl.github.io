@@ -29,8 +29,8 @@ I have published more than 20 papers at leading international journals in metall
 - *2023.07 - 2025.12*, [Northeastern University](https://www.neu.edu.cn/), School of Metallurgy, Postdoctoral fellow.
 
 # 📖 Educations
-- *2018.09 - 2023.07*, [Northeastern University](https://www.neu.edu.cn/), Ferrous Metallurgy, Ph.D. 
-- *2015.09 - 2018.06*, [Lanzhou University of Technology](https://www.lut.edu.cn/), Materials Processing Engineering, Master.
+- *2018.09 - 2023.07*, [Northeastern University](https://www.neu.edu.cn/), Ferrous Metallurgy, Ph.D., Supervisor: Prof [Cong Wang](http://faculty.neu.edu.cn/wangc1/zh_CN/index.htm).
+- *2015.09 - 2018.06*, [Lanzhou University of Technology](https://www.lut.edu.cn/), Materials Processing Engineering, Master, Supervisor: Prof. [Xueyan Du](https://yjyhj.lut.edu.cn/info/1004/1509.htm).
 - *2011.09 - 2015.06*, [Lanzhou University of Technology](https://www.lut.edu.cn/), Metallurgical Engineering, Bachelor.
 
 # 📝 Publications 
