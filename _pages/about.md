@@ -64,4 +64,11 @@ I have published more than 20 papers at leading international journals in metall
 - *2025.10* TiO2-Driven Slag Crystallization and Its Role in Improving Slag Detachability during Welding, The 29th National Conference on Welding Science and Technology, Wuhan, China. 
 - *2025.02* Probing Structural Variations and Electrical Conductive Mechanisms for CaF2-SiO2-CaO-TiO2 Welding Fluxes, The International Conference on Integrated Manufacturing and Mechanics of Materials Marketing, Giza.
 - *2024.11* Microstructural Evolution Behavior and Electrical Conductivity of TiO2-Containing Welding Flux Slags, The 24th National Conference on Physical Chemistry of Metallurgy, Changsha, China.
-
+<!-- Floating visitor counter -->
+<div id="visitor-counter">
+  <div class="vc-title">Visitors</div>
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=gswxl.gswxl.github.io"
+    alt="visitor counter"
+  />
+</div>
