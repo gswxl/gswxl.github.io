@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have long been engaged in the development of high-performance welding fluxes and the characterization of their physicochemical properties, with a particular focus on slag structure evolution, property regulation, and weld microstructure optimization in welding metallurgy. As the principal investigator, I have led seven competitive research projects, including grants from the National Natural Science Foundation of China, sub-projects under the Ministry of Science and Technology “Science and Technology Innovation 2030” initiative, and key laboratory open research programs. In addition, I have participated as a core contributor in two major projects, including NSFC international cooperation and exchange programs and national key R & D initiatives. My research achievements have been recognized by several international awards, including the TMS Extraction & Processing Division Science Award, a nomination for the Henry Marion Howe Medal, and the Best Research Award at the 1st International Welding Technology Conference. I have delivered three invited oral presentations at international and national academic conferences, including MOLTEN 2020, the National Welding Conference of China, and the National Conference on Metallurgical Physical Chemistry, demonstrating strong scientific innovation capability and a solid background in international research collaboration.
+I have published more than 20 papers at leading international journals in metallurgy and welding<a href='https://scholar.google.com/citations?user=cg28J5oAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Work Experience
+- *2025.12 - Now*, [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), School of Materials Science and Engineering.
+- *2023.07 - 2025.12*, [Northeastern University](https://www.neu.edu.cn/), School of Metallurgy, Postdoctoral fellow.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2023.07*, [Northeastern University](https://www.neu.edu.cn/), Ferrous Metallurgy, Ph.D. 
+- *2015.09 - 2018.06*, [Lanzhou University of Technology](https://www.lut.edu.cn/), Materials Processing Engineering, Master.
+- *2011.09 - 2015.06*, [Lanzhou University of Technology](https://www.lut.edu.cn/), Metallurgical Engineering, Bachelor.
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Metallurgical and Materials Transactions B</div><img src='https://i.ibb.co/HDFBcf9f/Inclusion-Ti-O2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TiO2-Driven Inclusion Characteristics in Submerged Arc Welds of EH36 Shipbuilding Steel Treated by CaF2–SiO2–CaO–TiO2 Fluxes](https://doi.org/10.1007/s11663-025-03573-0)
+
+**Yanyun Zhang**, Zhengrong Liu, Shuai Shi, Hangyu Bai, Cong Wang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cg28J5oAAAAJ&cstart=20&pagesize=80&citation_for_view=cg28J5oAAAAJ:YOwf2qJgpHMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work reveals that TiO₂ in CaF₂–SiO₂–CaO–TiO₂ fluxes governs weld-metal inclusion chemistry, density, and size by synergistically regulating Ti and O during high heat input SAW. 
+</div>
+</div>
+
+- *2023-09-26* [Identifying oxygen transfer pathways during high heat input submerged arc welding: A case study into CaF2-SiO2-CaO-TiO2 fluxes](https://doi.org/10.1007/s11663-023-02922-1), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Haoxin Liu, Theresa Coetsee, Zhanjun Wang, Cong Wang*
+- *2023-08-16* [Elucidating electrical conductive mechanisms for CaF2-SiO2-CaO-TiO2 welding fluxes](https://doi.org/10.1007/s11663-023-02885-3), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Hang Yuan, Huiyu Tian, Zhanjun Wang, Cong Wang*
+- *2022-06-07* [Probing viscosity and structural variations in CaF2-SiO2-MnO welding fluxes](https://doi.org/10.1007/s11663-022-02566-7), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Zhanjun Wang, Jiawen Zhang, Zushu Li, Somnath Basu, Cong Wang*
+- *2022-03-09* [Addressing weld metal compositional variations in EH36 shipbuilding steel processed by CaF2-SiO2-CaO-TiO2 fluxes](https://doi.org/10.1007/s11663-022-02480-y), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Jin Zhang, Haoxin Liu, Zhanjun Wang, Cong Wang*
+- *2020-08-20* [Structural roles of TiO2 in CaF2-SiO2-CaO-TiO2 submerged arc welding fluxes](https://doi.org/10.1007/s11663-020-01935-4), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Theresa Coetsee, Haifeng Yang, Tan Zhao, Cong Wang*
+
+# 🎖 Honors and Awards
+- *2025.01* Henry Marion Howe Medal, ASM International. 
+- *2025.01* Editor's Choice Articles, ASM International. 
+- *2024.10* Most Cited Articles Published in 2022 and 2023, Metallurgical and Materials Transactions B.
+- *2022.10* Best Researcher Award, 1st Edition of International Research Awards on Welding Technology.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.10* TiO2调控焊渣结晶行为及其对焊缝金属脱渣性能的影响, 第二十九次全国焊接学术会, 武汉. 
+- *2025.02* Probing Structural Variations and Electrical Conductive Mechanisms for CaF2-SiO2-CaO-TiO2 Welding Fluxes, The International Conference on Integrated Manufacturing and Mechanics of Materials Marketing, Giza.
+- *2024.11* 含TiO2焊剂熔渣微观结构演变行为和电导特性, 第二十四届全国冶金物理化学学术会议, 长沙.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
