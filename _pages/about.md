@@ -22,8 +22,7 @@ I have published more than 20 papers at leading international journals in metall
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  
 
 # 💻 Work Experience
 - *2025.12 - Now*, [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), School of Materials Science and Engineering.
@@ -55,13 +54,14 @@ I have published more than 20 papers at leading international journals in metall
 - *2020-08-20* [Structural roles of TiO2 in CaF2-SiO2-CaO-TiO2 submerged arc welding fluxes](https://doi.org/10.1007/s11663-020-01935-4), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Theresa Coetsee, Haifeng Yang, Tan Zhao, Cong Wang*
 
 # 🎖 Honors and Awards
+- *2025.12* Excellent Postdoctoral Fellow, Northeastern University.
 - *2025.01* Henry Marion Howe Medal, ASM International. 
 - *2025.01* Editor's Choice Articles, ASM International. 
 - *2024.10* Most Cited Articles Published in 2022 and 2023, Metallurgical and Materials Transactions B.
 - *2022.10* Best Researcher Award, 1st Edition of International Research Awards on Welding Technology.
 
 # 💬 Invited Talks
-- *2025.10* TiO2调控焊渣结晶行为及其对焊缝金属脱渣性能的影响, 第二十九次全国焊接学术会, 武汉. 
+- *2025.10* TiO2-Driven Slag Crystallization and Its Role in Improving Slag Detachability during Welding, The 29th National Conference on Welding Science and Technology, Wuhan, China. 
 - *2025.02* Probing Structural Variations and Electrical Conductive Mechanisms for CaF2-SiO2-CaO-TiO2 Welding Fluxes, The International Conference on Integrated Manufacturing and Mechanics of Materials Marketing, Giza.
-- *2024.11* 含TiO2焊剂熔渣微观结构演变行为和电导特性, 第二十四届全国冶金物理化学学术会议, 长沙.
+- *2024.11* Microstructural Evolution Behavior and Electrical Conductivity of TiO2-Containing Welding Flux Slags, The 24th National Conference on Physical Chemistry of Metallurgy, Changsha, China.
 
