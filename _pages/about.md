@@ -19,10 +19,9 @@ redirect_from:
 
 <ul class="hero-bullets">
   <li><strong>Welding Flux Metallurgy:</strong> Design and optimization of SAW fluxes for precise control of oxygen content, inclusions, and weld metal microstructure.</li>
-  <li><strong>Core Topics:</strong> Slag structure–property relationships, TiO₂-driven crystallization, viscosity and electrical conductivity, and oxygen transfer mechanisms.</li>
-  <li><strong>Publications:</strong> <strong>20+ SCI journal papers</strong> (6 as first author) in MMTB, Welding Journal, and related journals.</li>
+  <li><strong>Core Topics:</strong> Slag structure-property relationships, TiO2-driven crystallization, viscosity and electrical conductivity, and oxygen transfer mechanisms.</li>
+  <li><strong>Publications:</strong> <strong>20+ SCI journal papers</strong> in MMTB, Welding Journal, and related journals.</li>
   <li><strong>Funding:</strong> <strong>7 projects as PI</strong>, including NSFC Youth Fund, national and industrial collaborative programs.</li>
-  <li><strong>Awards:</strong> Outstanding Postdoctoral Fellow; TMS EPD Science Award; Henry Marion Howe Medal nomination.</li>
 </ul>
 
 
