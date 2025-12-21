@@ -40,14 +40,14 @@ redirect_from:
 
 # 📝 Publications 
 
-🔁 Inclusions, microstructure & mechanical Properties
+🔁 Inclusions, microstructure & mechanical properties
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Metallurgical and Materials Transactions B</div><img src='https://i.ibb.co/HDFBcf9f/Inclusion-Ti-O2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TiO2-Driven Inclusion Characteristics in Submerged Arc Welds of EH36 Shipbuilding Steel Treated by CaF2–SiO2–CaO–TiO2 Fluxes](https://doi.org/10.1007/s11663-025-03573-0)
 
-**Yanyun Zhang**, Zhengrong Liu, Shuai Shi, Hangyu Bai, Cong Wang
+**Yanyun Zhang**, Zhengrong Liu, Shuai Shi, Hangyu Bai, Cong Wang*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cg28J5oAAAAJ&cstart=20&pagesize=80&citation_for_view=cg28J5oAAAAJ:YOwf2qJgpHMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work reveals that TiO2 in CaF2-SiO2-CaO-TiO2 fluxes governs weld-metal inclusion chemistry, density, and size by synergistically regulating Ti and O during high heat input SAW. 
