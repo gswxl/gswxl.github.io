@@ -26,7 +26,7 @@ I have published more than 20 papers at leading international journals in metall
 - *2025.05* Paper accepted in MMTB on inclusion characteristics of weld metal.
 
 # 💻 Work Experience
-- *2025.12 - Now*, [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), School of Materials Science and Engineering.
+- *2025.12 - Present*, [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), School of Materials Science and Engineering.
 - *2023.07 - 2025.12*, [Northeastern University](https://www.neu.edu.cn/), School of Metallurgy, Postdoctoral fellow.
 
 # 📖 Educations
