@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I have long been engaged in the development of high-performance welding fluxes and the characterization of their physicochemical properties, with a particular focus on slag structure evolution, property regulation, and weld microstructure optimization in welding metallurgy. As the principal investigator, I have led seven competitive research projects, including grants from the National Natural Science Foundation of China, sub-projects under the Ministry of Science and Technology “Science and Technology Innovation 2030” initiative, and key laboratory open research programs. In addition, I have participated as a core contributor in two major projects, including NSFC international cooperation and exchange programs and national key R & D initiatives. My research achievements have been recognized by several international awards, including the TMS Extraction & Processing Division Science Award, a nomination for the Henry Marion Howe Medal, and the Best Research Award at the 1st International Welding Technology Conference. I have delivered three invited oral presentations at international and national academic conferences, including MOLTEN 2020, the National Welding Conference of China, and the National Conference on Metallurgical Physical Chemistry, demonstrating strong scientific innovation capability and a solid background in international research collaboration.
-I have published more than 20 papers at leading international journals in metallurgy and welding<a href='https://scholar.google.com/citations?user=cg28J5oAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+<ul class="hero-bullets">
+  <li><strong>Welding Flux Metallurgy:</strong> Design and optimization of SAW fluxes for precise control of oxygen content, inclusions, and weld metal microstructure.</li>
+  <li><strong>Core Topics:</strong> Slag structure–property relationships, TiO₂-driven crystallization, viscosity and electrical conductivity, and oxygen transfer mechanisms.</li>
+  <li><strong>Publications:</strong> <strong>20+ SCI journal papers</strong> (6 as first author) in MMTB, Welding Journal, and related journals.</li>
+  <li><strong>Funding:</strong> <strong>7 projects as PI</strong>, including NSFC Youth Fund, national and industrial collaborative programs.</li>
+  <li><strong>Awards:</strong> Outstanding Postdoctoral Fellow; TMS EPD Science Award; Henry Marion Howe Medal nomination.</li>
+</ul>
 
 
 # 🔥 News
