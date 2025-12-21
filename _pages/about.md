@@ -39,6 +39,7 @@ redirect_from:
 - *2011.09 - 2015.06*, [Lanzhou University of Technology](https://www.lut.edu.cn/), Metallurgical Engineering, Bachelor.
 
 # 📝 Publications 
+<h2>🧩 Slag structure-property relationships<h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Metallurgical and Materials Transactions B</div><img src='https://i.ibb.co/HDFBcf9f/Inclusion-Ti-O2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
