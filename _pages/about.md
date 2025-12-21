@@ -54,20 +54,18 @@ redirect_from:
 </div>
 </div>
 
-
-🧩 Slag structure-property relationships
+<div> 🧩 Slag structure-property relationships
 
 - *2023-08-16* [Elucidating electrical conductive mechanisms for CaF2-SiO2-CaO-TiO2 welding fluxes](https://doi.org/10.1007/s11663-023-02885-3), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Hang Yuan, Huiyu Tian, Zhanjun Wang, Cong Wang*
 - *2022-06-07* [Probing viscosity and structural variations in CaF2-SiO2-MnO welding fluxes](https://doi.org/10.1007/s11663-022-02566-7), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Zhanjun Wang, Jiawen Zhang, Zushu Li, Somnath Basu, Cong Wang*
 - *2020-08-20* [Structural roles of TiO2 in CaF2-SiO2-CaO-TiO2 submerged arc welding fluxes](https://doi.org/10.1007/s11663-020-01935-4), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Theresa Coetsee, Haifeng Yang, Tan Zhao, Cong Wang*
+</div>
 
-🔬 Oxygen & alloying element transfer
+<div>🔬 Oxygen & alloying element transfer
 
 - *2023-09-26* [Identifying oxygen transfer pathways during high heat input submerged arc welding: A case study into CaF2-SiO2-CaO-TiO2 fluxes](https://doi.org/10.1007/s11663-023-02922-1), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Haoxin Liu, Theresa Coetsee, Zhanjun Wang, Cong Wang*
 - *2022-03-09* [Addressing weld metal compositional variations in EH36 shipbuilding steel processed by CaF2-SiO2-CaO-TiO2 fluxes](https://doi.org/10.1007/s11663-022-02480-y), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Jin Zhang, Haoxin Liu, Zhanjun Wang, Cong Wang*
-
-
-
+</div>
 
 # 🎖 Honors and Awards
 - *2025.12* Excellent Postdoctoral Fellow, Northeastern University.
