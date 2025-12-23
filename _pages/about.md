@@ -63,7 +63,7 @@ redirect_from:
 - *2022-06-07* [Probing viscosity and structural variations in CaF2-SiO2-MnO welding fluxes](https://doi.org/10.1007/s11663-022-02566-7), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Zhanjun Wang, Jiawen Zhang, Zushu Li, Somnath Basu, Cong Wang*
 - *2020-08-20* [Structural roles of TiO2 in CaF2-SiO2-CaO-TiO2 submerged arc welding fluxes](https://doi.org/10.1007/s11663-020-01935-4), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Theresa Coetsee, Haifeng Yang, Tan Zhao, Cong Wang*
 - *2025-05* [Structural role of CaF2 upon welding flux viscosity](https://doi.org/10.29391/2025.104.013), *Welding Journal*, Hang Yuan, **Yanyun Zhang**, Yanqing Zhao, Jie Li, Zushu Li, Cong Wang*
-- ** [Influence of MnO upon electrical conductive mechanisms of submerged arc welding fluxes: Insights from ab initio molecular dynamics simulations](https://www.ams.org.cn/EN/10.11900/0412.1961.2025.00065), *Acta Metallurgica Sinica*, Hang Yuan, **Yanyun Zhang**, Cong Wang*
+- *2025-03-12* [Influence of MnO upon electrical conductive mechanisms of submerged arc welding fluxes: Insights from ab initio molecular dynamics simulations](https://www.ams.org.cn/EN/10.11900/0412.1961.2025.00065), *Acta Metallurgica Sinica*, Hang Yuan, **Yanyun Zhang**, Cong Wang*
 -
 
 
