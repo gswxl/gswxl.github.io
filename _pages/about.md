@@ -26,9 +26,9 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.12* Joined Shijiazhuang Tiedao University as faculty.
-- *2025.12* Successful Completion of Postdoctoral Research Program.
-- *2025.05* Paper accepted in MMTB on inclusion characteristics of weld metal.
+- *2025.12* 🎊🎊Joined Shijiazhuang Tiedao University as faculty.
+- *2025.12* ✨✨Successful Completion of Postdoctoral Research Program.
+- *2025.05* 💐💐Paper accepted in MMTB on inclusion characteristics of weld metal.
 
 # 💻 Work Experience
 - *2025.12 - Present*, [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), School of Materials Science and Engineering.
