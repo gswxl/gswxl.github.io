@@ -26,6 +26,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.03* 💐💐Received James F. Lincoln Gold Medal Award.
 - *2025.12* 🎊🎊Joined Shijiazhuang Tiedao University as faculty.
 - *2025.12* ✨✨Successful Completion of Postdoctoral Research Program.
 - *2025.05* 💐💐Paper accepted in MMTB on inclusion characteristics of weld metal.
@@ -72,6 +73,7 @@ redirect_from:
 - *2022-03-09* [Addressing weld metal compositional variations in EH36 shipbuilding steel processed by CaF2-SiO2-CaO-TiO2 fluxes](https://doi.org/10.1007/s11663-022-02480-y), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Jin Zhang, Haoxin Liu, Zhanjun Wang, Cong Wang*
 
 # 🎖 Honors and Awards
+- *2026.03* James F. Lincoln Gold Medal Award, American welding society.
 - *2025.12* Excellent Postdoctoral Fellow, Northeastern University.
 - *2025.01* Henry Marion Howe Medal, ASM International. 
 - *2025.01* Editor's Choice Articles, ASM International. 
