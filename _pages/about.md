@@ -26,10 +26,10 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.04* 💐💐Paper accepted in Ceramics International.
 - *2025.03* 💐💐Received James F. Lincoln Gold Medal Award.
 - *2025.12* 🎊🎊Joined Shijiazhuang Tiedao University as faculty.
 - *2025.12* ✨✨Successful Completion of Postdoctoral Research Program.
-- *2025.05* 💐💐Paper accepted in MMTB on inclusion characteristics of weld metal.
 
 # 💻 Work Experience
 - *2025.12 - Present*, [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/), School of Materials Science and Engineering.
@@ -61,6 +61,7 @@ redirect_from:
 
 🧩 Slag structure-property relationships
 
+- *2023-08-16* [Network reconstruction and energetic stabilization of MnO-SiO2-Al2O3 welding fluxes: A dual perspective on viscosity evolution](https://doi.org/10.1016/j.ceramint.2026.04.098), *Ceramics International*, **Yanyun Zhang**, Xiaoyan Li, Shuai Shi, Xiaoxi Song, Yadong Xu, Zushu Li, Cong Wang*
 - *2023-08-16* [Elucidating electrical conductive mechanisms for CaF2-SiO2-CaO-TiO2 welding fluxes](https://doi.org/10.1007/s11663-023-02885-3), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Hang Yuan, Huiyu Tian, Zhanjun Wang, Cong Wang*
 - *2022-06-07* [Probing viscosity and structural variations in CaF2-SiO2-MnO welding fluxes](https://doi.org/10.1007/s11663-022-02566-7), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Zhanjun Wang, Jiawen Zhang, Zushu Li, Somnath Basu, Cong Wang*
 - *2020-08-20* [Structural roles of TiO2 in CaF2-SiO2-CaO-TiO2 submerged arc welding fluxes](https://doi.org/10.1007/s11663-020-01935-4), *Metallurgical and Materials Transactions B*, **Yanyun Zhang**, Theresa Coetsee, Haifeng Yang, Tan Zhao, Cong Wang*
